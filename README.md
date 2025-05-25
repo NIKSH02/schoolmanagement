@@ -39,3 +39,9 @@ MySQL is used as the database, and Geo-coordinates are used to compute distance 
 git clone https://github.com/NIKSH02/schoolmanagement.git
 cd schoolmanagement
 npm install
+
+
+
+postman shred collection
+
+https://www.postman.com/payload-cosmologist-32658866/my-workspace/request/ej4kqm6/list-school
