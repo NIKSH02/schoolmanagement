@@ -36,6 +36,6 @@ MySQL is used as the database, and Geo-coordinates are used to compute distance 
 ### Clone and Setup
 
 ```bash
-git clone [https://github.com/your-username/school-locator-api.git](https://github.com/NIKSH02/schoolmanagement.git)
+git clone https://github.com/NIKSH02/schoolmanagement.git
 cd schoolmanagement
 npm install
